@@ -1,0 +1,36 @@
+﻿
+@*@model Category *@
+@model Expense
+@{
+    ViewData["Title"] = "Домашня бухгалтерія";
+    //Model.ExpenseCategories = ViewBag.ExpenseCategories;
+    //Model.Expenses = ViewBag.Expenses;
+}
+<h2>Домашня бухгалтерія</h2>
+@*зміна порту*@
+<h4><a href="https://localhost:44343/Expense">Таблиця витрат</a></h4>
+<h4><a href="https://localhost:44343/Category">Таблиця категорій</a></h4>
+
+
+@* <h4>Добавить расход</h4> *@
+@* *@
+@* <form method="post" asp-action="AddExpense"> *@
+@*     <div> *@
+@*         <label for="category">Категорія:</label> *@
+@*         <select id="category" name="Category"> *@
+@*             @foreach (var category in Model.ExpenseCategories) *@
+@*             { *@
+@*                 <option value="@category">@category</option> *@
+@*             } *@
+@*         </select> *@
+@*     </div> *@
+@*     <div> *@
+@*         <label for="cost">Ціна:</label> *@
+@*         <input type="number" id="cost" name="Cost" step="0.01" /> *@
+@*     </div> *@
+@*     <div> *@
+@*         <label for="comment">Коментар:</label> *@
+@*         <input type="text" id="comment" name="Comment" /> *@
+@*     </div> *@
+@*     <button type="submit">Додати</button> *@
+@* </form> *@

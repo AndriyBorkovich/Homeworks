@@ -1,0 +1,21 @@
+
+P
+ HW_7_8/Views/Home/Privacy.cshtml,7\7\77aaad1f6a2e1778381ac896b16f9e73c67bb725
+R
+"HW_7_8/Views/Shared/_Layout.cshtml,7\8\78367ebefa87cfa5636e60b6d8a223c68cc45cdf
+G
+HW_7_8/appsettings.json,d\5\d5009c263ba07895fcb8f6df54dd604cb6f97073
+I
+HW_7_8/wwwroot/js/site.js,b\b\bbd59cce0c43a462810de068cc13eb8ab5d15135
+K
+HW_7_8/wwwroot/css/site.css,e\f\ef1282b3275cc51c3eac515a6559e9743121b57c
+c
+3HW_7_8/Migrations/AccountingContextModelSnapshot.cs,d\a\dabe985767dd9a7802edbee5e60052b1e3062b19
+A
+HW_7_8/Program.cs,e\a\ea033cf2ed411580aa76f9c3490224e893e49cb6
+P
+ HW_7_8/Views/Expense/Edit.cshtml,9\b\9b986e805a9564a00c704b04a18930beca69e3a8
+R
+"HW_7_8/Models/AccountingContext.cs,a\7\a712ed5398204ccd2ca4da8881589f00e8ca9383
+T
+$HW_7_8/Controllers/HomeController.cs,5\a\5a4ffe43afd3060cdd4466f607d6a034e7ec88f3
